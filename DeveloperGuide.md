@@ -11,3 +11,16 @@ git clone https://github.com/your-org/ecolearn.git
 cd ecolearn
 npm install
 npm start
+```
+
+## Структура проекта
+```/src
+  /components
+  /pages
+  /services
+/docs
+public/
+```
+
+## Сборка
+```npm run build```
