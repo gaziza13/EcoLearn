@@ -14,7 +14,8 @@ npm start
 ```
 
 ## Структура проекта
-```/src
+```
+/src
   /components
   /pages
   /services
